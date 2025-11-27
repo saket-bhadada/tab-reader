@@ -1,0 +1,12 @@
+{
+    "name": "Tab Title Reader",
+    "description":"an extension that reads the tab title",
+    "version":"1",
+    "manifest_version":3,
+    "background":{
+        "service_script":"server.js"
+    },
+    "action":{
+        "default_icon":"index.html"
+    }
+}
